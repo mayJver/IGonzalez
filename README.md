@@ -18,6 +18,7 @@ I'm studying Computer Systems Engineering at Tecnológico de Estudios Superiores
 ## Notable projects
 
 Automotive workshop and parking lot management system 
+
 • Engineered a secure web-based management system using native PHP and MySQL to track vehicle status, 
 parking allocations, and maintenance logs.
 • Designed and implemented a strict relational database schema featuring Role-Based Access Control 
@@ -28,6 +29,7 @@ prepared statements.
 version control and continuous updates
 
 Teenagers Mental Health Linear Regression Model | Python, Scikit-Learn, Pandas, Seaborn
+
 • Engineered a machine learning pipeline using Scikit-Learn to perform linear regression analysis on youth 
 mental health data, utilizing training and testing data splits for robust model validation.
 • Processed, cleaned, and structured demographic datasets from CSV sources using Pandas to ensure high 
